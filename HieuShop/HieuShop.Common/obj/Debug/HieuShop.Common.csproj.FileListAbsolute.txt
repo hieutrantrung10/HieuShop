@@ -1,0 +1,5 @@
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Common\bin\Debug\HieuShop.Common.dll
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Common\bin\Debug\HieuShop.Common.pdb
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Common\obj\Debug\HieuShop.Common.csprojResolveAssemblyReference.cache
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Common\obj\Debug\HieuShop.Common.dll
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Common\obj\Debug\HieuShop.Common.pdb

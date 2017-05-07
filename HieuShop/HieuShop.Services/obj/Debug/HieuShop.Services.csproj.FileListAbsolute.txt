@@ -1,0 +1,11 @@
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Services.dll
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Services.pdb
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Common.dll
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Data.dll
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Models.dll
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Common.pdb
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Data.pdb
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Models.pdb
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\obj\Debug\HieuShop.Services.csprojResolveAssemblyReference.cache
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\obj\Debug\HieuShop.Services.dll
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\obj\Debug\HieuShop.Services.pdb

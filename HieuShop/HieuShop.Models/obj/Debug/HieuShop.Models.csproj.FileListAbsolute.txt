@@ -1,0 +1,10 @@
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Models\bin\Debug\HieuShop.Models.dll.config
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Models\bin\Debug\HieuShop.Models.dll
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Models\bin\Debug\HieuShop.Models.pdb
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Models\bin\Debug\EntityFramework.dll
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Models\bin\Debug\EntityFramework.xml
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Models\obj\Debug\HieuShop.Models.csprojResolveAssemblyReference.cache
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Models\obj\Debug\HieuShop.Models.dll
+C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Models\obj\Debug\HieuShop.Models.pdb
