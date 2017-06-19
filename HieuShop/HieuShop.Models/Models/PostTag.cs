@@ -11,10 +11,10 @@ namespace HieuShop.Models.Models
     [Table("PostTags")]
     public class PostTag
     {
-        [Key]
+        [Key, Column(Order = 0)]
         public int ProductID { get; set; }
 
-        [Key]
+        [Key, Column(Order = 1)]
         public string TagID { get; set; }
 
         [ForeignKey("ProductID")]

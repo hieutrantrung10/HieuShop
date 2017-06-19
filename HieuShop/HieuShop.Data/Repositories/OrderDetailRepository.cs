@@ -1,0 +1,22 @@
+﻿using HieuShop.Data.Infrastructure;
+using HieuShop.Models.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HieuShop.Data.Repositories
+{
+    public interface IOrderDetailRepository
+    {
+    }
+
+    public class OrderDetailRepository : RepositoryBase<OrderDetail>, IOrderDetailRepository
+    {
+        public OrderDetailRepository(IDbFactory dbFactory)
+            : base(dbFactory)
+        {
+        }
+    }
+}

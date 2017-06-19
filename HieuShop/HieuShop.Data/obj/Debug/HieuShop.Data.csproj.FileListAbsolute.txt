@@ -10,3 +10,19 @@ C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Data\bin\De
 C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Data\obj\Debug\HieuShop.Data.csprojResolveAssemblyReference.cache
 C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Data\obj\Debug\HieuShop.Data.dll
 C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Data\obj\Debug\HieuShop.Data.pdb
+E:\HieuShop\HieuShop\HieuShop.Data\bin\Debug\HieuShop.Data.dll.config
+E:\HieuShop\HieuShop\HieuShop.Data\bin\Debug\HieuShop.Data.dll
+E:\HieuShop\HieuShop\HieuShop.Data\bin\Debug\HieuShop.Data.pdb
+E:\HieuShop\HieuShop\HieuShop.Data\bin\Debug\EntityFramework.dll
+E:\HieuShop\HieuShop\HieuShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\HieuShop\HieuShop\HieuShop.Data\bin\Debug\HieuShop.Common.dll
+E:\HieuShop\HieuShop\HieuShop.Data\bin\Debug\HieuShop.Models.dll
+E:\HieuShop\HieuShop\HieuShop.Data\bin\Debug\HieuShop.Common.pdb
+E:\HieuShop\HieuShop\HieuShop.Data\bin\Debug\HieuShop.Models.pdb
+E:\HieuShop\HieuShop\HieuShop.Data\bin\Debug\EntityFramework.xml
+E:\HieuShop\HieuShop\HieuShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\HieuShop\HieuShop\HieuShop.Data\obj\Debug\HieuShop.Data.csprojResolveAssemblyReference.cache
+E:\HieuShop\HieuShop\HieuShop.Data\obj\Debug\HieuShop.Data.dll
+E:\HieuShop\HieuShop\HieuShop.Data\obj\Debug\HieuShop.Data.pdb
+E:\HieuShop\HieuShop\HieuShop.Data\obj\Debug\HieuShop.Data.Migrations.InitialDB.resources
+E:\HieuShop\HieuShop\HieuShop.Data\obj\Debug\HieuShop.Data.csproj.GenerateResource.Cache

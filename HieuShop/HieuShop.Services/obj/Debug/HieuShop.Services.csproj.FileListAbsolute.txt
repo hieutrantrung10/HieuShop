@@ -9,3 +9,16 @@ C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\bi
 C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\obj\Debug\HieuShop.Services.csprojResolveAssemblyReference.cache
 C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\obj\Debug\HieuShop.Services.dll
 C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.Services\obj\Debug\HieuShop.Services.pdb
+E:\HieuShop\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Services.dll
+E:\HieuShop\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Services.pdb
+E:\HieuShop\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Common.dll
+E:\HieuShop\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Data.dll
+E:\HieuShop\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Models.dll
+E:\HieuShop\HieuShop\HieuShop.Services\bin\Debug\EntityFramework.dll
+E:\HieuShop\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Common.pdb
+E:\HieuShop\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Data.pdb
+E:\HieuShop\HieuShop\HieuShop.Services\bin\Debug\HieuShop.Models.pdb
+E:\HieuShop\HieuShop\HieuShop.Services\bin\Debug\EntityFramework.xml
+E:\HieuShop\HieuShop\HieuShop.Services\obj\Debug\HieuShop.Services.csprojResolveAssemblyReference.cache
+E:\HieuShop\HieuShop\HieuShop.Services\obj\Debug\HieuShop.Services.dll
+E:\HieuShop\HieuShop\HieuShop.Services\obj\Debug\HieuShop.Services.pdb
