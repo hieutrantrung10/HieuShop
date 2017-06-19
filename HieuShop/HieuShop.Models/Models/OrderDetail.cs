@@ -12,9 +12,9 @@ namespace HieuShop.Models.Models
     [Table("OrderDetails")]
     public class OrderDetail
     {
-        [Key]
+        [Key,Column(Order = 0)]
         public int OrderID { get; set; }
-        [Key]
+        [Key, Column(Order = 1)]
         public int ProductID { get; set; }
 
         [DefaultValue(0)]

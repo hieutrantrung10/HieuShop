@@ -10,7 +10,7 @@ namespace HieuShop.Data
 {
     public class HieuShopDbContext : DbContext
     {
-        public HieuShopDbContext() : base("")
+        public HieuShopDbContext() : base("HieuShopConnection")
         {
             this.Configuration.LazyLoadingEnabled = false;
         }
@@ -35,7 +35,8 @@ namespace HieuShop.Data
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder);
+            //modelBuilder.Entity<Product>().Ignore(x => x.MoreImages);
+            base.OnModelCreating(modelBuilder);            
         }
 
     }
