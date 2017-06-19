@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace HieuShop.Data.Repositories
 {
-    public interface ISlideTagRepository
+    public interface ISlideTagRepository : IRepository<Slide>
     {
     }
 

@@ -198,13 +198,13 @@ namespace HieuShop.Data.Migrations
                 "dbo.PostTags",
                 c => new
                     {
-                        ProductID = c.Int(nullable: false),
+                        PostID = c.Int(nullable: false),
                         TagID = c.String(nullable: false, maxLength: 128),
                     })
-                .PrimaryKey(t => new { t.ProductID, t.TagID })
-                .ForeignKey("dbo.Products", t => t.ProductID, cascadeDelete: true)
+                .PrimaryKey(t => new { t.PostID, t.TagID })
+                .ForeignKey("dbo.Products", t => t.PostID, cascadeDelete: true)
                 .ForeignKey("dbo.Tags", t => t.TagID, cascadeDelete: true)
-                .Index(t => t.ProductID)
+                .Index(t => t.PostID)
                 .Index(t => t.TagID);
             
             CreateTable(
@@ -286,7 +286,7 @@ namespace HieuShop.Data.Migrations
             DropForeignKey("dbo.ProductTags", "TagID", "dbo.Tags");
             DropForeignKey("dbo.ProductTags", "ProductID", "dbo.Products");
             DropForeignKey("dbo.PostTags", "TagID", "dbo.Tags");
-            DropForeignKey("dbo.PostTags", "ProductID", "dbo.Products");
+            DropForeignKey("dbo.PostTags", "PostID", "dbo.Products");
             DropForeignKey("dbo.Posts", "PostCategoryID", "dbo.PostCategories");
             DropForeignKey("dbo.OrderDetails", "ProductID", "dbo.Products");
             DropForeignKey("dbo.Products", "CategoryID", "dbo.ProductCategories");
@@ -295,7 +295,7 @@ namespace HieuShop.Data.Migrations
             DropIndex("dbo.ProductTags", new[] { "TagID" });
             DropIndex("dbo.ProductTags", new[] { "ProductID" });
             DropIndex("dbo.PostTags", new[] { "TagID" });
-            DropIndex("dbo.PostTags", new[] { "ProductID" });
+            DropIndex("dbo.PostTags", new[] { "PostID" });
             DropIndex("dbo.Posts", new[] { "PostCategoryID" });
             DropIndex("dbo.Products", new[] { "CategoryID" });
             DropIndex("dbo.OrderDetails", new[] { "ProductID" });

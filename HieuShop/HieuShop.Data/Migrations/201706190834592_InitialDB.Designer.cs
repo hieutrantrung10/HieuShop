@@ -13,7 +13,7 @@ namespace HieuShop.Data.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "201706190445567_InitialDB"; }
+            get { return "201706190834592_InitialDB"; }
         }
         
         string IMigrationMetadata.Source

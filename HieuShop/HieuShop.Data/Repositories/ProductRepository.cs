@@ -3,7 +3,7 @@ using HieuShop.Models.Models;
 
 namespace HieuShop.Data.Repositories
 {
-    public interface IProductRepository
+    public interface IProductRepository : IRepository<Product>
     {
     }
 

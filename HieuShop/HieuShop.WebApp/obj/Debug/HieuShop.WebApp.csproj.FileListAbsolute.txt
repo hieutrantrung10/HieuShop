@@ -56,6 +56,7 @@ C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.WebApp\bin\
 C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.WebApp\obj\Debug\HieuShop.WebApp.csprojResolveAssemblyReference.cache
 C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.WebApp\obj\Debug\HieuShop.WebApp.dll
 C:\Users\GIN\documents\visual studio 2015\Projects\HieuShop\HieuShop.WebApp\obj\Debug\HieuShop.WebApp.pdb
+E:\HieuShop\HieuShop\HieuShop.WebApp\obj\Debug\HieuShop.WebApp.csprojResolveAssemblyReference.cache
 E:\HieuShop\HieuShop\HieuShop.WebApp\bin\roslyn\csc.exe
 E:\HieuShop\HieuShop\HieuShop.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 E:\HieuShop\HieuShop\HieuShop.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -111,6 +112,5 @@ E:\HieuShop\HieuShop\HieuShop.WebApp\bin\Newtonsoft.Json.xml
 E:\HieuShop\HieuShop\HieuShop.WebApp\bin\System.Net.Http.Formatting.xml
 E:\HieuShop\HieuShop\HieuShop.WebApp\bin\System.Web.Http.xml
 E:\HieuShop\HieuShop\HieuShop.WebApp\bin\System.Web.Http.WebHost.xml
-E:\HieuShop\HieuShop\HieuShop.WebApp\obj\Debug\HieuShop.WebApp.csprojResolveAssemblyReference.cache
 E:\HieuShop\HieuShop\HieuShop.WebApp\obj\Debug\HieuShop.WebApp.dll
 E:\HieuShop\HieuShop\HieuShop.WebApp\obj\Debug\HieuShop.WebApp.pdb

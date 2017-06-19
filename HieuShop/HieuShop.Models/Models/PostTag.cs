@@ -12,12 +12,12 @@ namespace HieuShop.Models.Models
     public class PostTag
     {
         [Key, Column(Order = 0)]
-        public int ProductID { get; set; }
+        public int PostID { get; set; }
 
         [Key, Column(Order = 1)]
         public string TagID { get; set; }
 
-        [ForeignKey("ProductID")]
+        [ForeignKey("PostID")]
         public virtual Product Product { get; set; }
 
         [ForeignKey("TagID")]

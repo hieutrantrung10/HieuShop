@@ -35,5 +35,7 @@ namespace HieuShop.Models.Models
 
         [ForeignKey("PostCategoryID")]
         public virtual PostCategory PostCategory { get; set; }
+
+        public virtual IEnumerable<PostTag> PostTags { get; set; }
     }
 }

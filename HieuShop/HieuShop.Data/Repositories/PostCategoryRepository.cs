@@ -3,7 +3,7 @@ using HieuShop.Models.Models;
 
 namespace HieuShop.Data.Repositories
 {
-    public interface IPostCategoryRepository
+    public interface IPostCategoryRepository : IRepository<PostCategory>
     {
     }
 
