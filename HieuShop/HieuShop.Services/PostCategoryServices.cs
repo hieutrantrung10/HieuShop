@@ -19,7 +19,7 @@ namespace HieuShop.Services
         PostCategory GetById(int id);
         void SaveChanges();
     }
-    class PostCategoryServices : IPostCategoryServices
+    public class PostCategoryServices : IPostCategoryServices
     {
         IPostCategoryRepository _postCategoryRepository;
         IUnitofWork _unitOfWork;

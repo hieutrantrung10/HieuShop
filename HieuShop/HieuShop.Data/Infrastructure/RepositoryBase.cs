@@ -79,7 +79,7 @@ namespace HieuShop.Data.Infrastructure
             return dbSet.Count(where);
         }
 
-        public IQueryable<T> GetAll(string[] includes = null)
+        public IEnumerable<T> GetAll(string[] includes = null)
         {
             //HANDLE INLCUDES FOR ASSOCIATED OBJECTS IF APPLICABLE
             if(includes != null && includes.Count() > 0)
@@ -95,10 +95,20 @@ namespace HieuShop.Data.Infrastructure
 
         public T GetSingleByCondition(Expression<Func<T,bool>>expression,string[] includes = null)
         {
-            return GetAll(includes).FirstOrDefault(expression);
+            if(includes != null && includes.Count() > 0)
+            {
+                var query = _context.Set<T>().Include(includes.First());
+                foreach (var include in includes.Skip(1))
+                    query = query.Include(include);
+                return query.FirstOrDefault(expression);
+
+            }
+            return _context.Set<T>().FirstOrDefault(expression);
+            //return _context.Set<T>().AsQueryable();
+            //return GetAll(includes).FirstOrDefault(expression);
         }
 
-        public virtual IQueryable<T> GetMulti(Expression<Func<T, bool>> predicate, string[] includes = null)
+        public virtual IEnumerable<T> GetMulti(Expression<Func<T, bool>> predicate, string[] includes = null)
         {
             if(includes != null && includes.Count() > 0)
             {
@@ -110,7 +120,7 @@ namespace HieuShop.Data.Infrastructure
             return _context.Set<T>().Where(predicate).AsQueryable();
         }
 
-        public virtual IQueryable<T> GetMultiPaging(Expression<Func<T, bool>> predicate, out int total, int index = 0 , int size = 50, string[] includes = null)
+        public virtual IEnumerable<T> GetMultiPaging(Expression<Func<T, bool>> predicate, out int total, int index = 0 , int size = 50, string[] includes = null)
         {
             int skipCount = index * size;
             IQueryable<T> _resetSet;

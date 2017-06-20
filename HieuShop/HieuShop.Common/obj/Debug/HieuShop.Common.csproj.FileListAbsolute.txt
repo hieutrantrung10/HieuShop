@@ -7,3 +7,4 @@ E:\HieuShop\HieuShop\HieuShop.Common\bin\Debug\HieuShop.Common.dll
 E:\HieuShop\HieuShop\HieuShop.Common\bin\Debug\HieuShop.Common.pdb
 E:\HieuShop\HieuShop\HieuShop.Common\obj\Debug\HieuShop.Common.dll
 E:\HieuShop\HieuShop\HieuShop.Common\obj\Debug\HieuShop.Common.pdb
+E:\HieuShop\HieuShop\HieuShop.Common\obj\Debug\HieuShop.Common.csprojResolveAssemblyReference.cache

@@ -17,3 +17,4 @@ E:\HieuShop\HieuShop\HieuShop.Models\bin\Debug\EntityFramework.xml
 E:\HieuShop\HieuShop\HieuShop.Models\bin\Debug\EntityFramework.SqlServer.xml
 E:\HieuShop\HieuShop\HieuShop.Models\obj\Debug\HieuShop.Models.dll
 E:\HieuShop\HieuShop\HieuShop.Models\obj\Debug\HieuShop.Models.pdb
+E:\HieuShop\HieuShop\HieuShop.Models\obj\Debug\HieuShop.Models.csprojResolveAssemblyReference.cache

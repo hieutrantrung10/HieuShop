@@ -100,3 +100,9 @@ E:\HieuShop\HieuShop\HieuShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
 E:\HieuShop\HieuShop\HieuShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\HieuShop\HieuShop\HieuShop.UnitTest\obj\Debug\HieuShop.UnitTest.dll
 E:\HieuShop\HieuShop\HieuShop.UnitTest\obj\Debug\HieuShop.UnitTest.pdb
+E:\HieuShop\HieuShop\HieuShop.UnitTest\bin\Debug\HieuShop.UnitTest.dll.config
+E:\HieuShop\HieuShop\HieuShop.UnitTest\bin\Debug\Castle.Core.dll
+E:\HieuShop\HieuShop\HieuShop.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\HieuShop\HieuShop\HieuShop.UnitTest\bin\Debug\Moq.dll
+E:\HieuShop\HieuShop\HieuShop.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+E:\HieuShop\HieuShop\HieuShop.UnitTest\bin\Debug\Moq.xml
