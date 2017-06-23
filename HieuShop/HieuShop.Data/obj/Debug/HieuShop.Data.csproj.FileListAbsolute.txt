@@ -26,3 +26,4 @@ E:\HieuShop\HieuShop\HieuShop.Data\obj\Debug\HieuShop.Data.dll
 E:\HieuShop\HieuShop\HieuShop.Data\obj\Debug\HieuShop.Data.pdb
 E:\HieuShop\HieuShop\HieuShop.Data\obj\Debug\HieuShop.Data.Migrations.InitialDB.resources
 E:\HieuShop\HieuShop\HieuShop.Data\obj\Debug\HieuShop.Data.csproj.GenerateResource.Cache
+E:\HieuShop\HieuShop\HieuShop.Data\obj\Debug\HieuShop.Data.Migrations.AddErrorLog.resources

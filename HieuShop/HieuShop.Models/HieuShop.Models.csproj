@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="Abstracts\CommonInfo.cs" />
     <Compile Include="Abstracts\ICommonInfo.cs" />
+    <Compile Include="Models\ErrorLog.cs" />
     <Compile Include="Models\Footer.cs" />
     <Compile Include="Models\Menu.cs" />
     <Compile Include="Models\MenuGroup.cs" />
